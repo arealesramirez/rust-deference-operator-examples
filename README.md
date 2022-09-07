@@ -1,4 +1,4 @@
-# Rust | Dereference Unary Operator Examples 
+# Rust | Dereference Unary (`*`) Operator Examples 
 This simple repository shows the code snippets used in the article https://www.becomebetterprogrammer.com/rust-dereference-unix-operator/ to understand how the dereference unix operator works for all the different Rust pointers such as:
 - Shared References (&)
 - Mutable References (&mut)
